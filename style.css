@@ -1,0 +1,13 @@
+
+.navbar {
+    background: blue;
+    border-bottom: #333 3px solid;
+    opacity: 0.8;
+}
+
+#home-section {
+    background: url(./img/social.jpeg);
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+}
