@@ -11,3 +11,16 @@
     background-size: cover;
     background-attachment: fixed;
 }
+
+#explore-head-section {
+    background: #888;
+}
+
+.dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+}
