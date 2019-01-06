@@ -1,3 +1,8 @@
+body {
+    background-color: #333;
+    color: #fff;
+}
+
 
 .navbar {
     background: blue;
@@ -12,8 +17,12 @@
     background-attachment: fixed;
 }
 
-#explore-head-section {
-    background: #888;
+#home-section .fa {
+    color: #008ed6;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
 }
 
 .dark-overlay {
@@ -23,4 +32,16 @@
     left: 0;
     width: 100%;
     min-height: 700px;
+}
+
+.home-inner {
+    padding-top: 150px;
+}
+
+#exploe-section .fa {
+    color: #fff;
+    background-color: #333;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
 }
